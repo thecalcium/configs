@@ -1,0 +1,23 @@
+! YouTube comments section.
+www.youtube.com###watch-discussion
+
+! Invasive Wikipedia donation banners (may be campaign specific, will update as needed).
+! Direct donation page: https://wikimediafoundation.org/wiki/Ways_to_Give
+en.wikipedia.org###B1516_0826_en6C_dsk_p2_sm_cntrl-form
+en.wikipedia.org###frbanner-main > tbody > tr > .frbanner-form-wrapper
+en.wikipedia.org###frbanner-facts
+en.wikipedia.org###frbanner-main > tbody > tr
+en.wikipedia.org###frbanner-main
+en.wikipedia.org###frbanner-nag
+
+! Healthgrade refferal adverts on AP BigStory (http://bigstory.ap.org/)
+||healthguides.healthgrades.com/ap-syndication-big-story?_embed=true&_format=_frame&refurl=*
+
+! Explosim (http://explosm.net/) hellobar does not stay dismissed on page (re)load
+explosm.net###hellobar-pusher
+explosm.net##.hellobar
+! Cosmetic cleanup
+explosm.net##.off-canvas-wrap > .inner-wrap > .row > .columns.large-4.medium-12.small-12 > .row
+
+! Rather annoying ad server that uses a unique service domain per client site.
+206.190.151.63
