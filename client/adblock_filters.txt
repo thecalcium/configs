@@ -3,10 +3,7 @@ www.youtube.com###watch-discussion
 
 ! Invasive Wikipedia donation banners (may be campaign specific, will update as needed).
 ! Direct donation page: https://wikimediafoundation.org/wiki/Ways_to_Give
-en.wikipedia.org###B1516_0826_en6C_dsk_p2_sm_cntrl-form
-en.wikipedia.org###frbanner-main > tbody > tr > .frbanner-form-wrapper
 en.wikipedia.org###frbanner-facts
-en.wikipedia.org###frbanner-main > tbody > tr
 en.wikipedia.org###frbanner-main
 en.wikipedia.org###frbanner-nag
 
